@@ -5,7 +5,7 @@
 ### Problema 1 - Audio MNIST
 [![Problema 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiguelMussi/AAII_TP2/blob/main/Problema_1.ipynb)
 ![Static Badge](https://img.shields.io/badge/💾_Código-✔️_Listo-green?style=flat)
-![Static Badge](https://img.shields.io/badge/📆_Estado-📝_Revisiones_Finales-orange?style=flat)
+![Static Badge](https://img.shields.io/badge/📆_Estado-⏳_Revisiones_Finales-important?style=flat)
 
 
 ### Problema 2 - Fake News
