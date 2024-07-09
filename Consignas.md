@@ -77,19 +77,18 @@ Código fuente de la solución implementada en Google Colab, que incluya:
 
 ---
 
-### Problema 3
+### Problema 3 *[Omitido por la cátedra]*
 
 #### Descripción
 
-*TBD: Problema badaso en transformers*
+*TBD: Problema basado en transformers*
 
 #### Dataset
 
-
 #### Objetivo
 
-
 #### Entrega
+
 
 
 
